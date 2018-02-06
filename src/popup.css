@@ -1,0 +1,18 @@
+.popUp {
+  z-index: 5;
+  position: absolute;
+  width: 200px;
+  height: 100px;
+
+  color: black;
+  background-color: black;
+
+  box-shadow: 10px 10px 10px 10px;
+
+}
+.popUpText {
+
+  text-align: center;
+  color: white;
+
+}
